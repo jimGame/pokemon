@@ -26,6 +26,9 @@
 //  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 //////////////////////////////////////////////////////////////////////////////////////
+/*
+ *  author@jim
+ */
 
 // class Main extends eui.UILayer {
    class Main extends egret.DisplayObjectContainer{
